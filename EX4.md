@@ -11,7 +11,7 @@
 6. Display the employee table
 
 ### Program:
-```
+```sql
 SQL> CREATE TABLE empl(
   2       empid NUMBER,
   3       empname VARCHAR(10),
